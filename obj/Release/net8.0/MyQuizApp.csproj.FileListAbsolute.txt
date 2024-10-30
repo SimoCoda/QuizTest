@@ -1,0 +1,14 @@
+C:\Users\SIMONE-DELL\source\repos\MyQuizApp\MyQuizApp\bin\Release\net8.0\MyQuizApp.exe
+C:\Users\SIMONE-DELL\source\repos\MyQuizApp\MyQuizApp\bin\Release\net8.0\MyQuizApp.deps.json
+C:\Users\SIMONE-DELL\source\repos\MyQuizApp\MyQuizApp\bin\Release\net8.0\MyQuizApp.runtimeconfig.json
+C:\Users\SIMONE-DELL\source\repos\MyQuizApp\MyQuizApp\bin\Release\net8.0\MyQuizApp.dll
+C:\Users\SIMONE-DELL\source\repos\MyQuizApp\MyQuizApp\bin\Release\net8.0\MyQuizApp.pdb
+C:\Users\SIMONE-DELL\source\repos\MyQuizApp\MyQuizApp\obj\Release\net8.0\MyQuizApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SIMONE-DELL\source\repos\MyQuizApp\MyQuizApp\obj\Release\net8.0\MyQuizApp.AssemblyInfoInputs.cache
+C:\Users\SIMONE-DELL\source\repos\MyQuizApp\MyQuizApp\obj\Release\net8.0\MyQuizApp.AssemblyInfo.cs
+C:\Users\SIMONE-DELL\source\repos\MyQuizApp\MyQuizApp\obj\Release\net8.0\MyQuizApp.csproj.CoreCompileInputs.cache
+C:\Users\SIMONE-DELL\source\repos\MyQuizApp\MyQuizApp\obj\Release\net8.0\MyQuizApp.dll
+C:\Users\SIMONE-DELL\source\repos\MyQuizApp\MyQuizApp\obj\Release\net8.0\refint\MyQuizApp.dll
+C:\Users\SIMONE-DELL\source\repos\MyQuizApp\MyQuizApp\obj\Release\net8.0\MyQuizApp.pdb
+C:\Users\SIMONE-DELL\source\repos\MyQuizApp\MyQuizApp\obj\Release\net8.0\MyQuizApp.genruntimeconfig.cache
+C:\Users\SIMONE-DELL\source\repos\MyQuizApp\MyQuizApp\obj\Release\net8.0\ref\MyQuizApp.dll
